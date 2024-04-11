@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ilia tsiklauri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilia tsiklauri" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/ilia tsiklauri](https://www.linkedin.com/in/ilia-tsiklauri-7005962a1/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilia tsiklauri" height="30" width="40" /></a>
 <a href="https://instagram.com/ilia_tsiklauri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilia_tsiklauri" height="30" width="40" /></a>
 </p>
 
