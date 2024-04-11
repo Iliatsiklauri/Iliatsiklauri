@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iliatsiklauri&label=Profile%20views&color=0e75b6&style=flat" alt="iliatsiklauri" /> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js Express**
 
-- 💬 Ask me about **react Next.js**
+- 💬 Ask me about **React Next.js**
 
 - 📫 How to reach me **Tsiklauri.ilia26@gmail.com**
 
