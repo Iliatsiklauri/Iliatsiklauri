@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm ilia tsiklauri</h1>
-<h3 align="center">A passionate frontend developer from Georgia</h3>
+<h3 align="center">A passionate FullStack developer from Georgia</h3>
 
 
 
-
-- 🌱 I’m currently learning **Node.js Express**
-
-- 💬 Ask me about **React Next.js**
+- 💬 Ask me about **React Next.js , Nest.js , Node.js , React.js **
 
 - 📫 How to reach me **Tsiklauri.ilia26@gmail.com**
 
@@ -27,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iliatsiklauri&show_icons=true&locale=en" alt="iliatsiklauri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iliatsiklauri&" alt="iliatsiklauri" /></p>
+
